@@ -1,6 +1,6 @@
 <h1 align="center">VS code+Marp实现Markdown转换成PPT格式</h1>
 
-~哈喽，大家好，我是阿木又~
+哈喽，大家好，我是阿木又
 
 写在前面：
 
@@ -20,7 +20,7 @@
 
 2. 安装VSCode
 
-   ~安装示意图借用CSDN黄化的多多~
+   安装示意图借用CSDN黄化的多多
 
 ![img](https://img-blog.csdnimg.cn/img_convert/47115f0b141d8ca8e6b8a8e819fd1feb.png#pic_center)
 
@@ -91,9 +91,9 @@ paginate: true
 
 | Marp官方内置主题 |         指令为          |
 | :--------------: | :---------------------: |
-| Default（违约）  | <!-- theme: default --> |
-|   Gaia（盖亚）   |  <!-- theme: gaia -->   |
-|  Uncover（揭）   | <!-- theme: uncover --> |
+| Default（违约）  | \<!-- theme: default --> |
+|   Gaia（盖亚）   |  \<!-- theme: gaia -->   |
+|  Uncover（揭）   | \<!-- theme: uncover --> |
 
 
 
